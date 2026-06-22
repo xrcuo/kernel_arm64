@@ -25,10 +25,6 @@ on:
         type: choice
         options:
           - all
-          - 5.10.y
-          - 5.15.y
-          - 6.1.y
-          - 6.6.y
           - 6.12.y
           - 6.18.y
       kernel_auto:
